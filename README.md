@@ -3,9 +3,9 @@
 Ce ReadMe est un compte rendu complet du TP dans lequel toutes nos manipulations sont consignées étapes par étapes. Nos difficultées se trouvent à la fin du document et se situent majoritairement dans la section TP3. 
 
 # Table des matières 
--  [Mot de passe du SoC](#Mots-de-passe-de-la-carte) 
--  [Commandes de la carte](#Commandes-de-la-carte) 
--  [Préparation de la carte SD à mettre dans la cible](#Préparation-de-la-carte-SD-à-mettre-dans-la-cible) 
+- [Mot de passe du SoC](#Mots-de-passe-de-la-carte) 
+- [Commandes de la carte](#Commandes-de-la-carte) 
+- [Préparation de la carte SD à mettre dans la cible](#Préparation-de-la-carte-SD-à-mettre-dans-la-cible) 
 - [Découverte de la carte](#Découverte-de-la-cible)
 - [TP2 Modules Kernel](#TP2-Modules-kernel)
 - [TP3 Device Tree](#TP3-Device-Tree)
